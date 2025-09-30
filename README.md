@@ -26,7 +26,7 @@ The goal of **IgStrand-Align** is to bridge **sequence (1D)** and **structure (2
 Run the main script with:
 
 ```bash
-python main_script.py [-h] -f FILE -d DIMENSION
+python src/main_script.py [-h] -f FILE -d DIMENSION
 ```
 ### Arguments
 
@@ -60,15 +60,15 @@ Each line contains:
 
   ### Generate 1D representation only
   ```bash
-  python main_script.py -f input.txt -d 1D
+  python src/main_script.py -f input.txt -d 1D
   ```
   ### Generate 2D representation only
   ```bash
-  python main_script.py -f input.txt -d 2D
+  python src/main_script.py -f input.txt -d 2D
   ```
   ### Generate both 1D and 2D representations
   ```bash
-  python main_script.py -f input.txt -d 1D,2D
+  python src/main_script.py -f input.txt -d 1D,2D
  ```
 ### Output
   - 1D alignment: Shows aligned sequences for domains from the input file, including reference PDB, Ig type, and sequence information, color-coded by the IgStrand numbering scheme.
