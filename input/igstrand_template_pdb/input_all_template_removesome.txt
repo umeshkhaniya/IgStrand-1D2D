@@ -1,0 +1,66 @@
+#IgV
+1yjd C 1
+1hnf A 1
+1cd8 A 1
+5esv C 1
+5esv D 1
+6x4g A 1
+7tzg D 1
+4zqk B 1
+4z18 B 1
+6jxr m 1
+6oil A 1
+1t6v N 1
+#IgC1 #I changed 7phr H 2 to 1
+7phr L 1
+6jxr d 1
+6jxr f 1
+5esv C 2
+5esv D 2
+1axi B 1
+7tzg D 2
+7phr H 1
+5j0b D 2
+6jxr m 2
+Q7Z7D3 A 2
+#IgC2
+1hnf A 2
+6jxr g 1
+#IgI
+2aw2 A 1
+1nbq A 2
+2dm3 A 1
+4uow M 1
+#IgE
+2iij A 1
+1r4x A 1
+1i8a A 1
+2ite A 1
+2zxe B 1
+3kys C 1
+2o6c A 1
+1o75 A 1
+#IgFN3
+2ee2 A 1
+1bqu B 1
+1bqu B 2
+8guy E 1
+8guy E 2
+1wf5 A 1
+#IgFN3-like
+4jqi A 1
+6py8 C 1
+6py8 C 2
+#SOD
+1hl5 C 1
+#Cadherin
+4zt1 A 1
+#Lamin
+1ifr A 1
+#ORF
+1xak A 1
+#CD19
+# 6al5 A 1
+
+
+

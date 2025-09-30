@@ -1,0 +1,6 @@
+2ee2 A 1
+1bqu B 1
+1bqu B 2
+8guy E 1
+8guy E 2
+1wf5 A 1
